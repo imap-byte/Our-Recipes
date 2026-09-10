@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ספר המתכונים של הפורום</title>
+
+  <style>
+    :root {
+      --primary: #b45309;
+      --background: #fffaf3;
+      --card: #ffffff;
+      --text: #292524;
+      --muted: #78716c;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: var(--text);
+      background: var(--background);
+    }
+
+    header {
+      padding: 48px 20px;
+      text-align: center;
+      color: white;
+      background: linear-gradient(135deg, #b45309, #f59e0b);
+    }
+
+    header h1 { margin: 0 0 10px; }
+
+    main {
+      width: min(1100px, 92%);
+      margin: 30px auto;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    input, select {
+      width: 100%;
+      padding: 13px;
+      border: 1px solid #d6d3d1;
+      border-radius: 10px;
+      font-size: 16px;
+      background: white;
+    }
+
+    #recipes {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    article {
+      padding: 22px;
+      background: var(--card);
+      border-radius: 16px;
+      box-shadow: 0 5px 18px rgb(0 0 0 / 8%);
+    }
+
+    article h2 {
+      color: var(--primary);
+      margin-top: 0;
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin: 14px 0;
+    }
+
+    .tag {
+      padding: 5px 10px;
+      border-radius: 20px;
+      background: #ffedd5;
+      color: #9a3412;
+      font-size: 13px;
+    }
+
+    li { margin-bottom: 6px; }
+
+    .empty {
+      text-align: center;
+      color: var(--muted);
+    }
+
+    @media (max-width: 650px) {
+      .controls { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+
+<body>
+<header>
+  <h1>ספר המתכונים של הפורום</h1>
+  <p>מתכונים שנאספו ונשמרו באהבה</p>
+</header>
+
+<main>
+  <section class="controls">
+    <input id="search" type="search"
+           placeholder="חיפוש לפי שם, כותבת, מצרך או תגית">
+
+    <select id="tagFilter">
+      <option value="">כל התגיות</option>
+    </select>
+  </section>
+
+  <section id="recipes"></section>
+</main>
+
+<script>
+const recipes = [
+  {
+    id: "chocolate-cake",
+    name: "עוגת שוקולד",
+    author: "רות",
+    date: "2026-01-15",
+    source: "נושא ההודעה המקורית",
+    tags: ["עוגות", "שוקולד", "קינוחים"],
+    ingredients: [
+      "2 כוסות קמח",
+      "1 כוס סוכר",
+      "3 כפות קקאו",
+      "2 ביצים"
+    ],
+    instructions: [
+      "מערבבים את החומרים היבשים.",
+      "מוסיפים את יתר החומרים ומערבבים.",
+      "אופים לפי ההוראות המקוריות."
+    ],
+    notes: "יש להחליף את הדוגמה בפרטים המדויקים מהמקור."
+  }
+];
+
+const recipesElement = document.querySelector("#recipes");
+const searchElement = document.querySelector("#search");
+const tagFilter = document.querySelector("#tagFilter");
+
+const allTags = [...new Set(recipes.flatMap(recipe => recipe.tags))].sort();
+
+allTags.forEach(tag => {
+  const option = document.createElement("option");
+  option.value = tag;
+  option.textContent = tag;
+  tagFilter.appendChild(option);
+});
+
+function renderRecipes() {
+  const query = searchElement.value.trim().toLowerCase();
+  const selectedTag = tagFilter.value;
+
+  const filtered = recipes.filter(recipe => {
+    const searchableText = [
+      recipe.name,
+      recipe.author,
+      recipe.source,
+      ...recipe.tags,
+      ...recipe.ingredients
+    ].join(" ").toLowerCase();
+
+    return searchableText.includes(query) &&
+      (!selectedTag || recipe.tags.includes(selectedTag));
+  });
+
+  if (!filtered.length) {
+    recipesElement.innerHTML =
+      '<p class="empty">לא נמצאו מתכונים מתאימים.</p>';
+    return;
+  }
+
+  recipesElement.innerHTML = filtered.map(recipe => `
+    <article id="${recipe.id}">
+      <h2>${recipe.name}</h2>
+
+      <p class="meta">
+        מאת ${recipe.author} · ${recipe.date}
+      </p>
+
+      <div class="tags">
+        ${recipe.tags.map(tag =>
+          `<span class="tag">${tag}</span>`
+        ).join("")}
+      </div>
+
+      <h3>מצרכים</h3>
+      <ul>
+        ${recipe.ingredients.map(item =>
+          `<li>${item}</li>`
+        ).join("")}
+      </ul>
+
+      <h3>אופן ההכנה</h3>
+      <ol>
+        ${recipe.instructions.map(step =>
+          `<li>${step}</li>`
+        ).join("")}
+      </ol>
+
+      ${recipe.notes ? `<p><strong>הערות:</strong> ${recipe.notes}</p>` : ""}
+
+      <p class="meta">מקור: ${recipe.source}</p>
+    </article>
+  `).join("");
+}
+
+searchElement.addEventListener("input", renderRecipes);
+tagFilter.addEventListener("change", renderRecipes);
+renderRecipes();
+</script>
+</body>
+</html>
