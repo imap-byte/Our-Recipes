@@ -1,0 +1,60 @@
+name: Validate and publish recipe site
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements-dev.txt
+      - name: Read pinned media revision
+        id: media
+        run: |
+          python - <<'PY'
+          import json, os, re
+          data = json.load(open('data/media-source.json'))
+          assert re.fullmatch('[0-9a-f]{40}', data['commit'])
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write('commit=' + data['commit'] + '\n')
+          PY
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.media.outputs.commit }}
+          path: media-source
+      - name: Assemble and validate all data and media
+        run: python scripts/build.py --media-root media-source --output "$RUNNER_TEMP/recipe-site"
+      - name: Reject invalid data and media
+        run: python tests/validation.py --site "$RUNNER_TEMP/recipe-site"
+      - name: Install browser
+        run: python -m playwright install --with-deps chromium
+      - name: Browser regression tests
+        run: python tests/browser.py --site "$RUNNER_TEMP/recipe-site"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/recipe-site
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish validated artifact
+        id: deployment
+        uses: actions/deploy-pages@v4
