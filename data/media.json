@@ -2695,6 +2695,11 @@
       "path": "media/photos/generated-fixed-11-20-422--6466ca83ba4bf871.avif",
       "sha256": "6466ca83ba4bf871505087bbd33735240e6a5033014b2ca48b9a88fa4f68d7d1",
       "bytes": 22137
+    },
+    "tamar-chocolate-cake-442": {
+      "path": "media/photos/tamar-chocolate-cake--66e321e9e1e7025a.avif",
+      "sha256": "66e321e9e1e7025a8b93ba55d07f355aed6844b2e39d2e0355c24ec6858ebc64",
+      "bytes": 10017
     }
   },
   "scans": {
