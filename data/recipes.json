@@ -26,8 +26,8 @@
         "מחלקים לשתי תבניות אינגליש קייק ואופים ב־180 מעלות עד שקיסם יוצא יבש.",
         "לפני ההגשה מפזרים אבקת סוכר בנדיבות."
       ],
-      "note": "זמן ההכנה קצר (״בשתי דקות״), אך אינו זמן האפייה. מקור המתכון אינו מציין משך אפייה מדויק. הכמויות נמדדו בכוסות חד־פעמיות; המפרסמת העריכה שמדובר בכוסות שקופות של כ־180 מ״ל. התמונה היא תמונת המחשה כללית של עוגת שוקולד, ולא צילום המתכון.",
-      "photo": "chocolate-cake",
+      "note": "זמן ההכנה קצר (״בשתי דקות״), אך אינו זמן האפייה. מקור המתכון אינו מציין משך אפייה מדויק. הכמויות נמדדו בכוסות חד־פעמיות; המפרסמת העריכה שמדובר בכוסות שקופות של כ־180 מ״ל. התמונה היא תמונת המחשה ייעודית המבוססת על צורת העוגות, המצרכים ואופן ההכנה; אינה צילום של העוגה המקורית.",
+      "photo": "tamar-chocolate-cake-442",
       "scan": null,
       "continuation": false,
       "new": true,
@@ -39,7 +39,8 @@
       "creditEvidence": "סופרוומן פרסמה את המתכון ב־13.12.2023 וציינה בהמשך השרשור שתמר היא כלתה; בהודעת המשך אישרה אפייה ב־180 מעלות עד שקיסם יוצא יבש.",
       "sourceUrl": "https://mail.google.com/mail/u/?authuser=imaplusprog%40gmail.com#all/18c6208c6f5b8f38",
       "generatedImage": true,
-      "generatedImageNote": "Generic chocolate cake illustration reused from the existing category image; not a photograph of the recipe."
+      "generatedImageNote": "AI-generated illustration of the exact recipe: two moist chocolate loaf cakes with powdered sugar, no icing, and ingredients in background.",
+      "imageAlt": "שתי עוגות שוקולד עסיסיות בתבניות אינגליש קייק עם אבקת סוכר, אחת פרוסה, על רקע קערת ערבוב ומצרכי העוגה"
     },
     {
       "id": 441,
