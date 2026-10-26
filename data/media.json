@@ -2700,6 +2700,11 @@
       "path": "media/photos/tamar-chocolate-cake--66e321e9e1e7025a.avif",
       "sha256": "66e321e9e1e7025a8b93ba55d07f355aed6844b2e39d2e0355c24ec6858ebc64",
       "bytes": 10017
+    },
+    "shawarma-chicken-loaf-444": {
+      "path": "media/photos/shawarma-chicken-loaf-444--26ab59215adbb8da.avif",
+      "sha256": "26ab59215adbb8da625e511957412127e2c5deb4eab60f26fbb5aee5c9f3b584",
+      "bytes": 109578
     }
   },
   "scans": {
