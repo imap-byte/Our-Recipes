@@ -1,0 +1,193 @@
+{
+  "auditDate": "2026-10-25",
+  "repository": "imap-byte/Our-Recipes",
+  "siteSnapshot": {
+    "recipeCount": 423,
+    "checkedAgainst": "main/data/recipes.json",
+    "note": "Comparison by recipe titles, ingredient patterns and Gmail message IDs; similarity does not prove equivalence."
+  },
+  "requestedTopics": [
+    "תשעת הימים",
+    "מוצאי הצום/סוף הצום"
+  ],
+  "publicationPolicy": "User approval is required; never publish a recipe using another recipe's photo. Each recipe needs an accurate dedicated/generated or authorized original photo.",
+  "status": "DRAFT_ONLY_NOT_LIVE",
+  "scannedThreads": [
+    {
+      "thread_id": "191307b524178fe4",
+      "title": "תשעת הימים, נקווה לא להיות רעבים",
+      "messagesRead": 28,
+      "kind": "nine_days",
+      "note": "The retained thread segment begins on 2024-08-08; earlier quoted content is incomplete."
+    },
+    {
+      "thread_id": "19f5c901ba2415e8",
+      "title": "תפריט תשעת הימים",
+      "messagesRead": 2,
+      "kind": "nine_days",
+      "note": "2026 reprise; no standalone recipes in retrieved messages."
+    },
+    {
+      "thread_id": "19b6f637f4c00f41",
+      "title": "מה להכין לצאת צום?",
+      "messagesRead": 19,
+      "kind": "after_fast",
+      "note": "Contains one complete soup recipe and one potato method; an additional externally linked soup recipe was not accessible."
+    },
+    {
+      "thread_id": "18e60302532b529f",
+      "title": "רעיונות לדברים קלים וטעימים למוצאי הצום",
+      "messagesRead": 7,
+      "kind": "after_fast",
+      "note": "Contains a partially specified baked baguette recipe."
+    },
+    {
+      "thread_id": "1927079a8dcff382",
+      "title": "מה תגישי בסעודה וסעודה המפסקת",
+      "messagesRead": 60,
+      "kind": "before_fast_adjacent_not_core_scope",
+      "note": "Pre-fast discussion with additional partial recipes; separately noted, not treated as after-fast."
+    }
+  ],
+  "candidateRecipes": [
+    {
+      "status": "needs_dedicated_photo_and_owner_approval",
+      "completeness": "complete",
+      "category": "מרקים",
+      "title": "מרק עדשים כתומות קטיפתי ב־15 דקות – זמנית",
+      "author": "זמנית - P.R.",
+      "year": 2025,
+      "sourceMessageId": "19b7366e28cf9e77",
+      "sourceUrl": "https://mail.google.com/mail/u/?authuser=imaplusprog%40gmail.com#all/19b7366e28cf9e77",
+      "ingredients": [
+        "1 בצל גדול",
+        "2–3 שיני שום",
+        "2 כוסות עדשים כתומות",
+        "5 כוסות מים רותחים",
+        "מלח ופלפל לפי הטעם"
+      ],
+      "steps": [
+        "מטגנים בצל גדול, מוסיפים שום חתוך לקוביות ומטגנים מעט.",
+        "מוסיפים שתי כוסות עדשים כתומות וחמש כוסות מים רותחים ומתבלים במלח ובפלפל.",
+        "מביאים לרתיחה ומבשלים כ־15 דקות, עד שהעדשים מתרככות; אם המים מתאדים, מוסיפים עוד מים.",
+        "טוחנים למרק סמיך וקטיפתי."
+      ],
+      "notes": "המים הרותחים ותזמון 15 הדקות הובהרו בהודעת המשך 19b73e838d613d66. אין תוספות ירק או רוטב במתכון המקורי.",
+      "existingSimilarNotDuplicate": [
+        {
+          "id": 288,
+          "title": "מרק עדשים כתומות עם גזר ועגבניות"
+        }
+      ],
+      "requiredImage": "צילום ייעודי של מרק כתום סמיך וטחון לחלוטין בקערת מרק פשוטה; ללא קוביות ירקות, ללא בשר וללא תוספות שאינן במתכון."
+    },
+    {
+      "status": "needs_dedicated_photo_and_owner_approval",
+      "completeness": "original_did_not_specify_quantities",
+      "category": "תוספות",
+      "title": "תפוחי אדמה מבושלים ומושחמים במחבת – ערער בערבה",
+      "author": "ערער בערבה",
+      "year": 2025,
+      "sourceMessageId": "19b6f704b840b1ae",
+      "sourceUrl": "https://mail.google.com/mail/u/?authuser=imaplusprog%40gmail.com#all/19b6f704b840b1ae",
+      "ingredients": [
+        "תפוחי אדמה – בכמות הרצויה"
+      ],
+      "steps": [
+        "מקלפים תפוחי אדמה וחותכים לחתיכות בינוניות, לא קטנטנות.",
+        "מבשלים עד להתרככות.",
+        "מעבירים למחבת ומשחימים עד שמתקבלת מעטפת זהובה."
+      ],
+      "notes": "הכותבת לא ציינה כמות, זמן בישול, תיבול או שומן למחבת; אין להוסיף פרטים אלה ללא מקור.",
+      "existingSimilarNotDuplicate": [
+        {
+          "id": 148,
+          "title": "תפוחי אדמה מהירים במיקרוגל"
+        }
+      ],
+      "requiredImage": "צילום ייעודי של חתיכות תפוחי אדמה מבושלות ומושחמות בצבע זהוב במחבת, ללא רטבים או תוספות."
+    },
+    {
+      "status": "needs_details_photo_and_owner_approval",
+      "completeness": "missing_quantities_baking_temp_and_duration",
+      "category": "חלבי",
+      "title": "באגט מוקרם בפטריות וגבינה צהובה – חיה ב.",
+      "author": "חיה ב.",
+      "year": 2024,
+      "sourceMessageId": "18e614dd33161d4c",
+      "sourceUrl": "https://mail.google.com/mail/u/?authuser=imaplusprog%40gmail.com#all/18e614dd33161d4c",
+      "ingredients": [
+        "באגטים מוכנים",
+        "רוטב פטריות – בכמות לא צוינה",
+        "גבינה צהובה – בכמות לא צוינה",
+        "שמנת – תוספת מוצעת בתגובה, לא חלק מחומרי המקור"
+      ],
+      "steps": [
+        "חותכים באגטים מוכנים ל־3–4 חלקים.",
+        "מעמידים את החלקים בתבנית ודוחפים מעט את פנים הבצק ליצירת גומה דמוית כוס.",
+        "ממלאים ברוטב פטריות ובגבינה צהובה.",
+        "מכניסים לתנור. במקור לא צוינו חום וזמן אפייה."
+      ],
+      "notes": "תוספת שמנת הוצעה בתגובה נפרדת 18e6163bbb35a575. אין כמות מדויקת של רוטב או גבינה.",
+      "existingSimilarNotDuplicate": [],
+      "requiredImage": "צילום ייעודי של חלקי באגט קצרים העומדים ככוסות קטנות ממולאות רוטב פטריות וגבינה צהובה מותכת, לאחר אפייה."
+    },
+    {
+      "status": "needs_details_photo_and_owner_approval",
+      "completeness": "quoted_fragment_only",
+      "category": "תוספות",
+      "title": "צ׳יפס בתנור בציפוי פיקנטי – Python",
+      "author": "Python (קרדיט מהציטוט בשרשור, לא הודעת מקור עצמאית)",
+      "year": 2024,
+      "sourceMessageId": "191307b524178fe4",
+      "sourceUrl": "https://mail.google.com/mail/u/?authuser=imaplusprog%40gmail.com#all/191307b524178fe4",
+      "ingredients": [
+        "תפוחי אדמה – כמות לא צוינה",
+        "מלח",
+        "פלפל",
+        "פפריקה",
+        "תבלין פילדלפיה"
+      ],
+      "steps": [
+        "מתבלים תפוחי אדמה במלח, פלפל, פפריקה ותבלין פילדלפיה.",
+        "אופים בתנור. זמן, חום וגודל החיתוך לא צוינו בהודעה המצוטטת."
+      ],
+      "notes": "רק אזכור מצוטט בתגובה; אין הודעה עצמאית של המתכון במקטע השרשור שנמצא. אין לאשר כמתכון שלם ללא בירור פרטים.",
+      "existingSimilarNotDuplicate": [],
+      "requiredImage": "צילום ייעודי של צ׳יפס אפוי בתנור עם ציפוי תבלינים אדמדם, על נייר אפייה."
+    }
+  ],
+  "otherSources": [
+    {
+      "kind": "external_link_not_yet_importable",
+      "title": "מרק עדשים של ניקית",
+      "sourceMessageId": "19b6f76f39780ba5",
+      "url": "https://www.prog.co.il/threads/המרק-שתתמכרו-אליו.1109585/unread",
+      "reason": "The thread links to an outside recipe, but its full text was not available for verification; do not assume it equals the simple lentil soup."
+    },
+    {
+      "kind": "not_full_recipe",
+      "title": "מרק שמופיע בשיחת תשעת הימים",
+      "sourceMessageId": "191307b524178fe4",
+      "reason": "Only the reply '3 מים' survives in the retrieved segment; no complete ingredient list or method."
+    },
+    {
+      "kind": "outside_requested_after_fast_scope",
+      "title": "קרפלך במילוי עוף צלי – ח. גליקזון",
+      "sourceMessageId": "19270a1d8d9e1085",
+      "reason": "Pre-fast menu thread; dough formula is attributed to Tzipora Kreizman but not supplied. Existing site recipe #103 is a different turkey-filling recipe."
+    },
+    {
+      "kind": "outside_requested_after_fast_scope",
+      "title": "תערובת קציצות בשר/עוף/הודו למרק – sth",
+      "sourceMessageId": "19275a43217ae9f4",
+      "reason": "Pre-fast menu thread; broad meatball method with approximate measurements. Existing site recipe #392 is similar but not identical."
+    }
+  ],
+  "auditLimitations": [
+    "Gmail search and the accessible retained threads cannot prove every historical message in every thread was retrieved.",
+    "Replies listing meals without a cooking method were not counted as independent recipes.",
+    "No candidate was added to live recipes.json because a dedicated/original photo and user approval are required."
+  ],
+  "publishedNewRecipes": 0
+}
