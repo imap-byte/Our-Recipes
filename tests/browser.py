@@ -125,7 +125,8 @@ def main():
         samples=[]
         for prefix in ['generated-top10-','generated-fixed-11-20-','generated-21-30-','generated-31-40-','generated-41-50-','generated-51-60-','photo-checked-','illustrated-']:
             samples.append(next(r for r in data['recipes'] if r['photo'].startswith(prefix)))
-        samples.extend([next(r for r in data['recipes'] if r['scan']),next(r for r in data['recipes'] if r.get('scanExtra'))])
+        scan_samples=[next((r for r in data['recipes'] if r['scan']),None),next((r for r in data['recipes'] if r.get('scanExtra')),None)]
+        samples.extend(r for r in scan_samples if r is not None and r not in samples)
         for r in samples:
             page.goto(base+f'#recipe-{r["id"]}',wait_until='networkidle')
             assert page.get_by_role('dialog').is_visible()
