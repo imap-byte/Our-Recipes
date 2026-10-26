@@ -41,6 +41,15 @@ jobs:
         run: python -m playwright install --with-deps chromium
       - name: Browser regression tests
         run: python tests/browser.py --site "$RUNNER_TEMP/recipe-site"
+      - name: Create self-contained offline HTML
+        run: python scripts/export_offline.py --site "$RUNNER_TEMP/recipe-site" --output "$RUNNER_TEMP/Our-Recipes-Offline.html"
+      - name: Upload offline download (successful main builds only)
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: recipes-offline-html
+          path: ${{ runner.temp }}/Our-Recipes-Offline.html
+          retention-days: 90
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ runner.temp }}/recipe-site
