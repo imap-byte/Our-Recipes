@@ -7,15 +7,15 @@
     {
       "id": "holiday-01",
       "title": "ירקות חגיגיים בשעועית, פלפלים ובצל",
-      "photoBrief": "תקריב קערת ירקות מבושלים ברצועות: פלפל אדום, צהוב וכתום ובצל רך עם שעועית ורוטב סויה כהה מצומצם. להציג מנה חמה ומבריקה ולא סלט טרי. אין גזר, תפוחי אדמה, אורז או קישוטי עשבי תיבול. סוג השעועית אינו מפורש במקור ולכן יש לאמת חזותית לפני קיבוע צילום.",
-      "limitations": "סוג שעועית לא פורט; פטריות הן אפשרות בלבד",
+      "photoBrief": "צילום פוטוריאליסטי יחיד של שעועית ירוקה בתרמילים (לא שעועית יבשה), רצועות פלפל אדום, כתום וצהוב ובצל מאודה עד לריכוך, בתערובת מצומצמת ומתובלת בסויה; ניתן לכלול פטריות כמרכיב אופציונלי. ללא שעועית אדומה/לבנה או קטניות יבשות וללא תוספות אחרות.",
+      "limitations": "הבהרה מפורשת של בעלת האתר: 'שעועית' במתכון היא שעועית ירוקה. פטריות הן אפשרות בלבד.",
       "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-01.svg",
-      "photoStatus": "generated_candidate_not_yet_verified_or_uploaded",
+      "photoStatus": "corrected_green_beans_photo_candidate_generated_locally_not_uploaded_to_repo",
       "approvalStatus": "pending_owner_approval",
       "publicationAllowed": false,
-      "photoLocalFilename": "holiday-01-beans-peppers-onions-candidate.webp",
-      "photoSHA256": "b7cb9476fba24990106dd4bb462fdb2004829602003593928c7fac8801b30d24",
-      "photoReview": "Photorealistic unique candidate exists; bean type not specified; optional mushrooms present; do not publish without owner review."
+      "photoLocalFilename": "holiday-01-green-beans-peppers-onions.webp",
+      "photoSHA256": "52b719a80248ae77b3c2399a50efded2ad877665c66062a860093d332a98827f",
+      "photoReview": "Corrected original photo generated 2026-10-27: green bean pods, colorful peppers, onions, optional mushrooms. Earlier red/brown bean candidate is rejected and must never be used. This local image is not yet in GitHub media branch and is not published."
     },
     {
       "id": "holiday-02",
