@@ -16,10 +16,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-01.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של ירקות חגיגיים בשעועית, פלפלים ובצל, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של ירקות חגיגיים בשעועית, פלפלים ובצל, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-01",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -32,7 +34,7 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "excluded_existing_recipe",
-      "imageStatus": "not_generated",
+      "imageStatus": "not_needed_existing_recipe",
       "imagePath": null,
       "publicationAllowed": false,
       "visualBrief": "צילום אוכל מציאותי ייעודי של חזה עוף דמוי ממולא ברוטב דובדבנים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
@@ -48,10 +50,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-03.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של אוזני המן מבצק פריך של קרייזמן במלית תמרים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של אוזני המן מבצק פריך של קרייזמן במלית תמרים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-03",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -64,10 +68,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-04.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של אוזני המן פריכות בשמן וגרידת לימון, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של אוזני המן פריכות בשמן וגרידת לימון, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-04",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -80,10 +86,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-05.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של עוגיות הפתעה עם שוקולד במילוי אגוזי לוז, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של עוגיות הפתעה עם שוקולד במילוי אגוזי לוז, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-05",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -96,10 +104,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-06.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של סלט כרוב וגרעינים מתוקים קלויים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של סלט כרוב וגרעינים מתוקים קלויים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-06",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -112,10 +122,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-07.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של סלט כרוב עם פיצוחים מוכנים בשמן זית, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של סלט כרוב עם פיצוחים מוכנים בשמן זית, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-07",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -128,10 +140,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-08.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של קינוח שכבות חמאת בוטנים, קפה ואוראו למשלוח מנות, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של קינוח שכבות חמאת בוטנים, קפה ואוראו למשלוח מנות, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-08",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -144,10 +158,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-09.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של אייס קפה חלב ביתי בבקבוק למשלוח מנות, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של אייס קפה חלב ביתי בבקבוק למשלוח מנות, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-09",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -160,10 +176,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-10.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של מעדן שוקולד חם וסמיך בכוסות, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של מעדן שוקולד חם וסמיך בכוסות, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-10",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -176,10 +194,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-11.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של מוס שוקולד וקפה בכוסיות לסעודת פורים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של מוס שוקולד וקפה בכוסיות לסעודת פורים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-11",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "פורים",
@@ -192,7 +212,7 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני פורים ומשלוחי מנות",
       "approvalStatus": "excluded_existing_recipe",
-      "imageStatus": "not_generated",
+      "imageStatus": "not_needed_existing_recipe",
       "imagePath": null,
       "publicationAllowed": false,
       "visualBrief": "צילום אוכל מציאותי ייעודי של דיפ כוסברה, שום ופלפל חריף לסעודת פורים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
@@ -208,7 +228,7 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "excluded_existing_recipe",
-      "imageStatus": "not_generated",
+      "imageStatus": "not_needed_existing_recipe",
       "imagePath": null,
       "publicationAllowed": false,
       "visualBrief": "צילום אוכל מציאותי ייעודי של סופגניות יוגורט קטנות של העני בקר, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
@@ -224,10 +244,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-14.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של ספינג׳ מרוקאי אוורירי בציפוי סוכר טחון, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של ספינג׳ מרוקאי אוורירי בציפוי סוכר טחון, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-14",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "חנוכה",
@@ -240,10 +262,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-15.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של לביבות בטטה, קישוא ותפוח אדמה אפויות, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של לביבות בטטה, קישוא ותפוח אדמה אפויות, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-15",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "חנוכה",
@@ -256,10 +280,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-16.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של פשטידת קוטג׳ ופצפוצי אורז ללא טיגון, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של פשטידת קוטג׳ ופצפוצי אורז ללא טיגון, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-16",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "חנוכה",
@@ -272,7 +298,7 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "excluded_existing_recipe",
-      "imageStatus": "not_generated",
+      "imageStatus": "not_needed_existing_recipe",
       "imagePath": null,
       "publicationAllowed": false,
       "visualBrief": "צילום אוכל מציאותי ייעודי של פשטידת בצל, פטריות וקוטג׳ חלבית, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
@@ -288,7 +314,7 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "excluded_existing_recipe",
-      "imageStatus": "not_generated",
+      "imageStatus": "not_needed_existing_recipe",
       "imagePath": null,
       "publicationAllowed": false,
       "visualBrief": "צילום אוכל מציאותי ייעודי של סלט חסה וירקות עם קוביות הום־פרייז, בוטנים ומנצ׳ס, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
@@ -304,7 +330,7 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "excluded_existing_recipe",
-      "imageStatus": "not_generated",
+      "imageStatus": "not_needed_existing_recipe",
       "imagePath": null,
       "publicationAllowed": false,
       "visualBrief": "צילום אוכל מציאותי ייעודי של סלט חסה, עגבניות ופטריות ברוטב סויה־חרדל, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
@@ -320,10 +346,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-20.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של לביבות ירקות אפויות עם גזר, קישוא וקולרבי, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של לביבות ירקות אפויות עם גזר, קישוא וקולרבי, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-20",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "חנוכה",
@@ -336,10 +364,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-21.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של שבלולי פיצה מבצק עלים, רסק וגבינה צהובה, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של שבלולי פיצה מבצק עלים, רסק וגבינה צהובה, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-21",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "חנוכה",
@@ -352,7 +382,7 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "excluded_existing_recipe",
-      "imageStatus": "not_generated",
+      "imageStatus": "not_needed_existing_recipe",
       "imagePath": null,
       "publicationAllowed": false,
       "visualBrief": "צילום אוכל מציאותי ייעודי של שושני בצק עלים עם גבינה לבנה ואבקת מרק בצל, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
@@ -368,7 +398,7 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "excluded_existing_recipe",
-      "imageStatus": "not_generated",
+      "imageStatus": "not_needed_existing_recipe",
       "imagePath": null,
       "publicationAllowed": false,
       "visualBrief": "צילום אוכל מציאותי ייעודי של פיציות אישיות מחוברות בבצק שמרים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
@@ -384,10 +414,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-24.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של תפוחי אדמה אפויים בשמנת, פטריות ובצל, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של תפוחי אדמה אפויים בשמנת, פטריות ובצל, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-24",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "חנוכה",
@@ -400,10 +432,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-25.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של לביבות תפוחי אדמה אדומים מרוסקים עם ארבע ביצים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של לביבות תפוחי אדמה אדומים מרוסקים עם ארבע ביצים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-25",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "חנוכה",
@@ -416,10 +450,12 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-26.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של סלט חסה ופסטרמה לאירוח חנוכה בשרי, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של סלט חסה ופסטרמה לאירוח חנוכה בשרי, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-26",
+      "imageType": "stylized_svg_illustration"
     },
     {
       "holiday": "חנוכה",
@@ -432,10 +468,13 @@
       "sourceWorkbook": "kol_hamatkonim_gmail_2026-10-27_184_hanukkah.xlsx",
       "sourceSheet": "מתכוני חנוכה וערבי לביבות",
       "approvalStatus": "blocked_pending_review_and_dedicated_image",
-      "imageStatus": "not_generated",
-      "imagePath": null,
+      "imageStatus": "separate_illustration_created_not_verified_photo",
+      "imagePath": "docs/import-reviews/holiday-images/holiday-20261027-27.svg",
       "publicationAllowed": false,
-      "visualBrief": "צילום אוכל מציאותי ייעודי של סלט חסה עשיר בבטטה, חציל ופטריות אפויים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת."
+      "visualBrief": "צילום אוכל מציאותי ייעודי של סלט חסה עשיר בבטטה, חציל ופטריות אפויים, להראות אך ורק את מרכיבי המתכון ואת תוצאת שיטת ההכנה כפי שהופיעו במקור. ללא כיתוב, ללא רכיבים מומצאים, ללא תמונה של מנה אחרת.",
+      "imageId": "holiday-20261027-27",
+      "imageType": "stylized_svg_illustration"
     }
-  ]
+  ],
+  "imageNotice": "19 standalone SVG food illustrations exist on the review branch only. These are stylized illustrations, not generated photorealistic photos and not verified against every recipe. User policy requires a dedicated accurate photo before publication. No image is approved for publication."
 }
