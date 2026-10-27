@@ -3485,6 +3485,126 @@
       "path": "media/photos/approved-recipe-600--93a92eb41e3659e7.webp",
       "sha256": "93a92eb41e3659e746c459c6db54219436696ba5862205972c6116a05862e4cc",
       "bytes": 176342
+    },
+    "approved-recipe-601": {
+      "path": "media/photos/group-sheet-dinner-r002-arayes-chicken--a108a4d39bb9c23c.webp",
+      "sha256": "a108a4d39bb9c23cef92ee51e39c1538050dfac458d096a7f187c156e2972a33",
+      "bytes": 195174
+    },
+    "approved-recipe-602": {
+      "path": "media/photos/group-sheet-dinner-r003-meatball-potato-goulash--cb873ff587cce76c.webp",
+      "sha256": "cb873ff587cce76c80c8d883afe844c41b199f5ac45afb66e44d780c4c43b267",
+      "bytes": 162156
+    },
+    "approved-recipe-603": {
+      "path": "media/photos/group-sheet-dinner-r026-chicken-onion-silan--ed365772ff0e9d6a.webp",
+      "sha256": "ed365772ff0e9d6a66168cb714ec848e84727d678ca30f0712b6ac7839baa73f",
+      "bytes": 159228
+    },
+    "approved-recipe-604": {
+      "path": "media/photos/group-sheet-dinner-r047-leftover-veg-meatballs--489a1ce4b3b39a69.webp",
+      "sha256": "489a1ce4b3b39a697d434b71a749219734dbc2bca2aa374128a12b3125483cc5",
+      "bytes": 173098
+    },
+    "approved-recipe-605": {
+      "path": "media/photos/group-sheet-dinner-r048-kebab-ptitim--46eae3eb1e306e7b.webp",
+      "sha256": "46eae3eb1e306e7be73c3f574feb03d1ab193eb1a92189fa06078051db294fec",
+      "bytes": 181434
+    },
+    "approved-recipe-606": {
+      "path": "media/photos/group-sheet-dinner-r107-corn-fritters--706e37790c3c9d37.webp",
+      "sha256": "706e37790c3c9d3732aaf4316eb63eba31f3863361254f8a0e7f1f8e51dfa039",
+      "bytes": 191124
+    },
+    "approved-recipe-607": {
+      "path": "media/photos/g-sheet-2095150202-3--da03ffd317fc5c68.webp",
+      "sha256": "da03ffd317fc5c683f31107a344a94fca197e9648257cc3e9228396c99386b68",
+      "bytes": 179178
+    },
+    "approved-recipe-608": {
+      "path": "media/photos/holiday-03--04bd08354f0178f3.webp",
+      "sha256": "04bd08354f0178f3b3797ec400e75f1b72a1392227331375314a5755bfdccb0c",
+      "bytes": 147192
+    },
+    "approved-recipe-609": {
+      "path": "media/photos/holiday-04--f4d45617b88704fe.webp",
+      "sha256": "f4d45617b88704fe37f69d8a8ab6231d0f970d7b05b4934bd0312fb8a38de8e8",
+      "bytes": 92962
+    },
+    "approved-recipe-610": {
+      "path": "media/photos/holiday-05--948a8ba376d927c8.webp",
+      "sha256": "948a8ba376d927c8b5b0e237bff68c34833666dd7d927e9c087b3fd054135b89",
+      "bytes": 111756
+    },
+    "approved-recipe-611": {
+      "path": "media/photos/holiday-07--3636b8021c06605a.webp",
+      "sha256": "3636b8021c06605a3f96cdad246bb2efbe38ad49de403ff8577e48fb0c98ff90",
+      "bytes": 152052
+    },
+    "approved-recipe-612": {
+      "path": "media/photos/holiday-08--15863e4abcd390ea.webp",
+      "sha256": "15863e4abcd390eadcdebf60123fdd3e9d292c8c51bf63331e4a7b096511a2e9",
+      "bytes": 130800
+    },
+    "approved-recipe-613": {
+      "path": "media/photos/holiday-09--7629c290864f47a3.webp",
+      "sha256": "7629c290864f47a317e46e63fa9976bb1511a16a7ac7cb93725b303883e747b2",
+      "bytes": 92126
+    },
+    "approved-recipe-614": {
+      "path": "media/photos/holiday-10--17d8b38d290a609f.webp",
+      "sha256": "17d8b38d290a609fbf8eb48e9241bd615bf33af1c011e4c0ab295afd6020dbb7",
+      "bytes": 108264
+    },
+    "approved-recipe-615": {
+      "path": "media/photos/holiday-11--cba14d4e8feb21be.webp",
+      "sha256": "cba14d4e8feb21be27225e8fefa44042cd1a53d65497d7333ac932054f4f66b2",
+      "bytes": 80466
+    },
+    "approved-recipe-616": {
+      "path": "media/photos/holiday-14--84a2764a36c164c9.webp",
+      "sha256": "84a2764a36c164c90ce9a576500ca60a7585c2ce5158cacb4e4980df4a2f24b4",
+      "bytes": 221450
+    },
+    "approved-recipe-617": {
+      "path": "media/photos/holiday-15--d0ed6074a32db1c3.webp",
+      "sha256": "d0ed6074a32db1c3aa8f533bed7158d810e14cc3c600e36105f0f6cf827e0500",
+      "bytes": 161022
+    },
+    "approved-recipe-618": {
+      "path": "media/photos/holiday-16--2910f3dbc9dd6173.webp",
+      "sha256": "2910f3dbc9dd6173fe896071ee2c34a6341fa177cf92ec977ebd1bea163653ed",
+      "bytes": 122656
+    },
+    "approved-recipe-619": {
+      "path": "media/photos/holiday-20--ed10573df56312f2.webp",
+      "sha256": "ed10573df56312f2ecf202f98c1cbf6a172443a8bbd53284fe32510f4bd968af",
+      "bytes": 174100
+    },
+    "approved-recipe-620": {
+      "path": "media/photos/holiday-21--7c0ed7f4e9b34816.webp",
+      "sha256": "7c0ed7f4e9b3481661bda4ef80799ba7c20f6eb4f7d121d79c322ab1e786a51a",
+      "bytes": 180820
+    },
+    "approved-recipe-621": {
+      "path": "media/photos/holiday-24--4414defd3c632bdb.webp",
+      "sha256": "4414defd3c632bdb3b5c98dd2c43b55763dd20e20e055ce76831d3c63b203b0e",
+      "bytes": 175534
+    },
+    "approved-recipe-622": {
+      "path": "media/photos/holiday-25--d1b260b9955427e3.webp",
+      "sha256": "d1b260b9955427e3c900ef124cf373917a5f67283b0eb1d0179abfa8124d63c0",
+      "bytes": 211168
+    },
+    "approved-recipe-623": {
+      "path": "media/photos/holiday-26--66ebdb6086427ea3.webp",
+      "sha256": "66ebdb6086427ea36d4863e3feeb828e8a31d8dd690c86388935171f9a11efe4",
+      "bytes": 148992
+    },
+    "approved-recipe-624": {
+      "path": "media/photos/holiday-27--20da407765750299.webp",
+      "sha256": "20da407765750299c3a28e1606777237d2a300192067e68bf0876711a16055fa",
+      "bytes": 208992
     }
   },
   "scans": {}
