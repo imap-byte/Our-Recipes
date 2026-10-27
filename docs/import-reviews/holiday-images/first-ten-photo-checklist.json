@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "source": "Pasted markdown(1).md (first 10 rows)",
+  "preparedAt": "2026-10-27",
+  "guidelines": "One distinct original photorealistic photo per recipe; no collages; no reuse of another dish photo; do not publish until image and owner approval verified. SVG illustrations in prior PR are candidates only, not substitute photographs.",
+  "items": [
+    {
+      "id": "holiday-01",
+      "title": "ירקות חגיגיים בשעועית, פלפלים ובצל",
+      "photoBrief": "צילום פוטוריאליסטי יחיד של שעועית ירוקה בתרמילים (לא שעועית יבשה), רצועות פלפל אדום, כתום וצהוב ובצל מאודה עד לריכוך, בתערובת מצומצמת ומתובלת בסויה; ניתן לכלול פטריות כמרכיב אופציונלי. ללא שעועית אדומה/לבנה או קטניות יבשות וללא תוספות אחרות.",
+      "limitations": "הבהרה מפורשת של בעלת האתר: 'שעועית' במתכון היא שעועית ירוקה. פטריות הן אפשרות בלבד.",
+      "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-01.svg",
+      "photoStatus": "corrected_green_beans_photo_candidate_generated_locally_not_uploaded_to_repo",
+      "approvalStatus": "pending_owner_approval",
+      "publicationAllowed": false,
+      "photoLocalFilename": "holiday-01-green-beans-peppers-onions.webp",
+      "photoSHA256": "52b719a80248ae77b3c2399a50efded2ad877665c66062a860093d332a98827f",
+      "photoReview": "Corrected original photo generated 2026-10-27: green bean pods, colorful peppers, onions, optional mushrooms. Earlier red/brown bean candidate is rejected and must never be used. This local image is not yet in GitHub media branch and is not published."
+    },
+    {
+      "id": "holiday-02",
+      "title": "חזה עוף דמוי ממולא ברוטב דובדבנים",
+      "photoBrief": "פרוסות חזה עוף דקיקות מגולגלות ומצופות פירורי לחם, אפויות בתבנית ומבריקות ברוטב דובדבנים כהה. להראות חתך אחד המדגים גלגול ללא מלית פנימית. ללא גבינה, ירקות, בצק או בשר אחר.",
+      "limitations": "כפילות קיימת באתר: לא ליצור רשומה נוספת; צילום מחייב החלטה לגבי מתכון קיים",
+      "candidateSvg": null,
+      "photoStatus": "not_generated_or_not_verified",
+      "approvalStatus": "duplicate_do_not_republish",
+      "publicationAllowed": false,
+      "photoReview": "Generation attempts repeated dish 01 instead of chicken, rejected; no valid image assigned."
+    },
+    {
+      "id": "holiday-03",
+      "title": "אוזני המן מבצק פריך של קרייזמן במלית תמרים",
+      "photoBrief": "אוזני המן משולשות אפויות מבצק פריך זהוב בהיר. במרכז מעט ממרח תמרים כהה עם קקאו, לא ריבה אדומה ולא פרג. כמה יחידות שלמות ואחת פתוחה בעדינות להמחשת המלית. ללא תוספות או עיטורים שאינם מופיעים ברכיבים.",
+      "limitations": "לצלם גרסת התמרים-קקאו-סוכר, לא לערבב עם חלופת הקוקוס והאגוזים",
+      "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-03.svg",
+      "photoStatus": "not_generated_or_not_verified",
+      "approvalStatus": "pending_owner_approval",
+      "publicationAllowed": false
+    },
+    {
+      "id": "holiday-04",
+      "title": "אוזני המן פריכות בשמן וגרידת לימון",
+      "photoBrief": "אוזני המן קטנות, אפויות ופריכות בצק עם שמן וגרידת לימון; ללא אבקת סוכר אם אינה רשומה. יש לשמור על צורת משולש מהודק. אין להמחיש מלית מסוימת עד להשלמת הפרט במקור.",
+      "limitations": "מילוי לא נמסר — התמונה אינה ניתנת לאימות מלא",
+      "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-04.svg",
+      "photoStatus": "not_generated_or_not_verified",
+      "approvalStatus": "pending_owner_approval",
+      "publicationAllowed": false
+    },
+    {
+      "id": "holiday-05",
+      "title": "עוגיות הפתעה עם שוקולד במילוי אגוזי לוז",
+      "photoBrief": "עוגיות עגולות בצק בהיר ועדין שאינו שחום, ממולאות בכדור שוקולד עם ליבת אגוז לוז. יחידה חתוכה במרכז מראה מעטפת בצק דקה, שכבת שוקולד ולב אגוז לוז. ללא ריבה, אבקת סוכר או שוקולד נוזלי על הצלחת.",
+      "limitations": "200 גרם מרגרינה הם הכמות המתוקנת; סוג השוקולד המסוים לא זוהה",
+      "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-05.svg",
+      "photoStatus": "not_generated_or_not_verified",
+      "approvalStatus": "pending_owner_approval",
+      "publicationAllowed": false
+    },
+    {
+      "id": "holiday-06",
+      "title": "סלט כרוב וגרעינים מתוקים קלויים",
+      "photoBrief": "כרוב לבן חתוך דק ברוטב בהיר מעט מבריק, מפוזרים עליו במפורש שקדים פרוסים קלויים, גרעיני דלעת ירוקים, גרעיני חמנייה ושומשום. אין גזר, עשבי תיבול, אגוזי מלך או פקאן.",
+      "limitations": "להדגיש גרעינים קלויים וסוכר קלוי; לא להציג אותו כסלט מיונז כבד",
+      "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-06.svg",
+      "photoStatus": "not_generated_or_not_verified",
+      "approvalStatus": "pending_owner_approval",
+      "publicationAllowed": false
+    },
+    {
+      "id": "holiday-07",
+      "title": "סלט כרוב עם פיצוחים מוכנים בשמן זית",
+      "photoBrief": "קוביות כרוב לבן ברורות בגודל כ־2×2 ס״מ עם תערובת גרעינים קנויה וחתיכות פקאן, שכבת שמן זית קלה ופלפל שחור. ללא רוטב מיונז, חרדל, סויה, שקדים פרוסים קלויים או גזר.",
+      "limitations": "זהו מתכון נפרד מסלט הכרוב בשורה 06",
+      "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-07.svg",
+      "photoStatus": "not_generated_or_not_verified",
+      "approvalStatus": "pending_owner_approval",
+      "publicationAllowed": false
+    },
+    {
+      "id": "holiday-08",
+      "title": "קינוח שכבות חמאת בוטנים, קפה ואוראו למשלוח מנות",
+      "photoBrief": "שתי קופסאות קינוח שקופות מצולמות מהצד כדי להציג ארבע שכבות מובחנות מלמטה למעלה: בסיס חמאת בוטנים דחוס בצבע בז׳, קרם קפה-וניל בהיר, שכבת פירורי אוראו כהה, קרם ריבת חלב בהיר מזולף. אפשר קישוט אבקת זהב דק. ללא פירות, עוגת ספוג או שכבת גנאש נוספת.",
+      "limitations": "כמויות פודינג ונפח הריצ׳ חסרים; החזות של ארבע השכבות מוסברת היטב",
+      "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-08.svg",
+      "photoStatus": "not_generated_or_not_verified",
+      "approvalStatus": "pending_owner_approval",
+      "publicationAllowed": false
+    },
+    {
+      "id": "holiday-09",
+      "title": "אייס קפה חלב ביתי בבקבוק למשלוח מנות",
+      "photoBrief": "בקבוק שקוף פשוט בנפח בערך ליטר המכיל משקה קפה חלבי אחיד בצבע בז׳-חום בהיר. ללא שכבות, ללא קצפת, ללא סירופ שוקולד, ללא פולי קפה מפוזרים וללא כיתוב. צילום מוצר נקי של המשקה המוגמר בבקבוק.",
+      "limitations": "מתכון שונה במינונים מאייס קפה קיים באתר; נדרשת בדיקת דמיון",
+      "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-09.svg",
+      "photoStatus": "not_generated_or_not_verified",
+      "approvalStatus": "pending_owner_approval",
+      "publicationAllowed": false
+    },
+    {
+      "id": "holiday-10",
+      "title": "מעדן שוקולד חם וסמיך בכוסות",
+      "photoBrief": "כמה כוסות הגשה פשוטות עם קרם קקאו חם, סמיך, כהה, חלק ומבריק, שנמזג זה עתה. מרקם פודינג יציב למחצה, ללא שכבות, ללא קצפת, ללא קישוט, ללא מרשמלו וללא פירות.",
+      "limitations": "כמויות קקאו, סוכר ומים חסרות; אין להציג גרסה חלבית כברירת מחדל",
+      "candidateSvg": "docs/import-reviews/holiday-images/holiday-20261027-10.svg",
+      "photoStatus": "not_generated_or_not_verified",
+      "approvalStatus": "pending_owner_approval",
+      "publicationAllowed": false
+    }
+  ],
+  "updatedAt": "2026-10-27"
+}
