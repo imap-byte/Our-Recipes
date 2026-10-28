@@ -1,0 +1,1591 @@
+{
+  "description": "Read-only review queue. Not loaded by published website.",
+  "createdOn": "2026-10-27",
+  "sourceUrl": "https://chaya-cell-png.github.io/recipes/",
+  "sourceSpreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+  "existingSourceRows": 73,
+  "verifiedDuplicateRows": [
+    {
+      "sheet": "מתוקים",
+      "row": 2,
+      "title": "עוגת חלבה שכבות",
+      "existingId": 284,
+      "existingTitle": "עוגת חלבה דו־צבעית עם קרם מייפל וקפה",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=2095150202&range=A2"
+    },
+    {
+      "sheet": "מתוקים",
+      "row": 4,
+      "title": "עוגת גבינה פרורים תות פשוט",
+      "existingId": 227,
+      "existingTitle": "עוגת גבינה פירורים של תות פשוט – ללא הקצפה",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=2095150202&range=A4"
+    },
+    {
+      "sheet": "מתוקים",
+      "row": 5,
+      "title": "עוגת קפה נדנדה",
+      "existingId": 228,
+      "existingTitle": "עוגת קפה שכבות של נדנדה – 4 כפות קפה",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=2095150202&range=A5"
+    },
+    {
+      "sheet": "מתוקים",
+      "row": 7,
+      "title": "עוגת בסקויטים שכבות (נדנדה)",
+      "existingId": 272,
+      "existingTitle": "עוגת ביסקוויטים עם קרם לימון, קפה וקקאו",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=2095150202&range=A7"
+    }
+  ],
+  "counts": {
+    "needs_full_recipe": 34,
+    "possible_duplicate": 6,
+    "ideas_collection": 2,
+    "editorial_review": 2,
+    "external_link_only": 1,
+    "inspiration_only": 11
+  },
+  "items": [
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 2,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A2"
+      },
+      "title": "עראייס עוף",
+      "author": "חיה ב",
+      "rawCells": [
+        "עראייס עוף ",
+        "",
+        "סלט חסה\\ירקות חתוכים ",
+        "עראייס רגיל על בסיסי עוף\\הודוו טחון מומלץ להוסיף עלים פטרוזליה\\כוסברה",
+        "כן",
+        "חיה ב "
+      ],
+      "originalDetails": "עראייס רגיל על בסיסי עוף\\הודוו טחון מומלץ להוסיף עלים פטרוזליה\\כוסברה",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 3,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A3"
+      },
+      "title": "גולש קציצות -",
+      "author": "",
+      "rawCells": [
+        "גולש קציצות - ",
+        "תפו\"א ",
+        "אפשר להוסיף לסיר ירק ",
+        "מטגנת קלות קוביות תתפו\"א מוספיה רוטב כלשהוא מגלגלת קציצות מבשלת עם סיר פתוח ככה שהרוטב יצטמצם קצת",
+        "לא"
+      ],
+      "originalDetails": "מטגנת קלות קוביות תתפו\"א מוספיה רוטב כלשהוא מגלגלת קציצות מבשלת עם סיר פתוח ככה שהרוטב יצטמצם קצת",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 5,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A5"
+      },
+      "title": "בולנוז עוף / בשר",
+      "author": "אהבת הים",
+      "rawCells": [
+        "בולנוז עוף / בשר",
+        "פסטה",
+        "גזר בצל ועגבניה בתוך הבולונז",
+        "לטגן בצל , להוסיף גזר מגורד , עגבניה מגורדת , לטגן , להוסיף עוף/ בשר טחון , להוסיף רסק ותבלינים + מים רותחים , להוסיף פסטה לבשל 10-15 דקות לכבות ולחכות שהמים יספגו",
+        "",
+        "אהבת הים "
+      ],
+      "originalDetails": "לטגן בצל , להוסיף גזר מגורד , עגבניה מגורדת , לטגן , להוסיף עוף/ בשר טחון , להוסיף רסק ותבלינים + מים רותחים , להוסיף פסטה לבשל 10-15 דקות לכבות ולחכות שהמים יספגו",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 8,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A8"
+      },
+      "title": "מושט",
+      "author": "",
+      "rawCells": [
+        "מושט",
+        "אורז",
+        "שעוית ירוקה "
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 10,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A10"
+      },
+      "title": "עוף בסיר עם תפוחי אדמה בטטות וגזר בתיבול פפריקה ושום",
+      "author": "אמאפ",
+      "rawCells": [
+        "עוף בסיר עם תפוחי אדמה בטטות וגזר בתיבול פפריקה ושום",
+        "תפו\"א ",
+        "גזר",
+        "",
+        "",
+        "אמאפ"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [
+        {
+          "id": 589,
+          "title": "עוף בסיר עם תפוחי אדמה ובטטה"
+        }
+      ],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 13,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A13"
+      },
+      "title": "שניצלים",
+      "author": "",
+      "rawCells": [
+        "שניצלים ",
+        "פירה / אורז"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 14,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A14"
+      },
+      "title": "מושט שניצל",
+      "author": "אמאפ",
+      "rawCells": [
+        "מושט שניצל",
+        "פרוסות בטטה ותפוחי אדמה בתנור מתובל בשמן+פפריקה+מלח+שום גבישי+אופציונלי אבקת מרק - מכסים בנייר אפיה",
+        "בטטה נחשב לירק?",
+        "מושט שניצל- מפזרים פירורי לחם על נייר אפיה, מניחים מושטים ומפזרים מלח, מורחים על המושט תערובת של מיונז,א.מרק עוף וחרדל אם אוהבים ומעל מפזרים שוב פירורי לחם וספריי שמן",
+        "",
+        "אמאפ"
+      ],
+      "originalDetails": "מושט שניצל- מפזרים פירורי לחם על נייר אפיה, מניחים מושטים ומפזרים מלח, מורחים על המושט תערובת של מיונז,א.מרק עוף וחרדל אם אוהבים ומעל מפזרים שוב פירורי לחם וספריי שמן",
+      "status": "possible_duplicate",
+      "reason": "קיים מתכון דומה; נדרשת השוואה ידנית בין רכיבים ואופן הכנה",
+      "possiblySameAs": [
+        {
+          "id": 14,
+          "title": "מושט בציפוי פירורי לחם"
+        },
+        {
+          "id": 202,
+          "title": "שניצל מושט בבלילת חרדל וצ׳ילי"
+        },
+        {
+          "id": 203,
+          "title": "שניצל מושט בקטשופ, חרדל ודבש"
+        }
+      ],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 15,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A15"
+      },
+      "title": "סטייקים במחבת פסים",
+      "author": "",
+      "rawCells": [
+        "סטייקים במחבת פסים "
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 21,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A21"
+      },
+      "title": "מרק כתום",
+      "author": "אהבת הים",
+      "rawCells": [
+        "",
+        "",
+        "מרק כתום ",
+        "לבשל ירקות : גזר , בטטה , דלעת , דלורית , קישוא , בצל , כשרותח להוסיף עדשים אדומות לבשל 40 דקות להוסיף תבלינים ולטחון ",
+        "",
+        "אהבת הים"
+      ],
+      "originalDetails": "לבשל ירקות : גזר , בטטה , דלעת , דלורית , קישוא , בצל , כשרותח להוסיף עדשים אדומות לבשל 40 דקות להוסיף תבלינים ולטחון",
+      "status": "possible_duplicate",
+      "reason": "קיים מתכון דומה; נדרשת השוואה ידנית בין רכיבים ואופן הכנה",
+      "possiblySameAs": [
+        {
+          "id": 346,
+          "title": "מרק כתום ועדשים אדומות באידוי בלי שמן"
+        }
+      ],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 22,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A22"
+      },
+      "title": "מושט",
+      "author": "",
+      "rawCells": [
+        "מושט",
+        "",
+        "",
+        "מיניחים במיניק פרוסות בצל מעליהן את המושט ואז מורחים ב-שמן, מלח, פלפל, גבישי שום ואבקת מרק"
+      ],
+      "originalDetails": "מיניחים במיניק פרוסות בצל מעליהן את המושט ואז מורחים ב-שמן, מלח, פלפל, גבישי שום ואבקת מרק",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 24,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A24"
+      },
+      "title": "קציצות טונה",
+      "author": "",
+      "rawCells": [
+        "קציצות טונה",
+        "תפוא ובטטות"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 25,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A25"
+      },
+      "title": "שניצל",
+      "author": "",
+      "rawCells": [
+        "שניצל",
+        "קוסקוס",
+        "ירקות קוסקוס"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 26,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A26"
+      },
+      "title": "חזה מוקפץ עם בצל",
+      "author": "",
+      "rawCells": [
+        "חזה מוקפץ עם בצל ",
+        "אורז",
+        "",
+        "חותכת חזה לקוביות מקמחת מסויפה על בצל חצי מטוגן ושופכת סילאן+פפריקה או כל תבלים שמתחשק"
+      ],
+      "originalDetails": "חותכת חזה לקוביות מקמחת מסויפה על בצל חצי מטוגן ושופכת סילאן+פפריקה או כל תבלים שמתחשק",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 27,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A27"
+      },
+      "title": "קציצות ברוטב",
+      "author": "",
+      "rawCells": [
+        "קציצות ברוטב ",
+        "פירה",
+        "",
+        "מוספיה לקציצות לחם רטוב בזכות פרפי מגרדת לפעמים בצל וביצה אחת רוטב החצי של הבצל קצת תבלינים מים רותחים (או רוטב אדום למי שאוהב)"
+      ],
+      "originalDetails": "מוספיה לקציצות לחם רטוב בזכות פרפי מגרדת לפעמים בצל וביצה אחת רוטב החצי של הבצל קצת תבלינים מים רותחים (או רוטב אדום למי שאוהב)",
+      "status": "possible_duplicate",
+      "reason": "קיים מתכון דומה; נדרשת השוואה ידנית בין רכיבים ואופן הכנה",
+      "possiblySameAs": [
+        {
+          "id": 19,
+          "title": "קציצות בשר ברוטב עגבניות"
+        }
+      ],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 30,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A30"
+      },
+      "title": "חזה עוף במחבת",
+      "author": "צל\"ש",
+      "rawCells": [
+        "חזה עוף במחבת",
+        "קוסקוס או פירה",
+        "מרק ירקות(כן גם בקיץ יש כאן חלק שאוכלים כל יום)",
+        "מתכון של ניקי שקיבלתי בגרופ https://nikib.co.il/main-course/117244",
+        "",
+        "צל\"ש"
+      ],
+      "originalDetails": "מתכון של ניקי שקיבלתי בגרופ https://nikib.co.il/main-course/117244",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 32,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A32"
+      },
+      "title": "קציצות בקלה טחון",
+      "author": "צל\"ש",
+      "rawCells": [
+        "קציצות בקלה טחון",
+        "פתיתים או פסטה",
+        "",
+        "כמו קציצות עוף רק בפרווה.",
+        "",
+        "צל\"ש"
+      ],
+      "originalDetails": "כמו קציצות עוף רק בפרווה.",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 33,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A33"
+      },
+      "title": "שניצל בקלה",
+      "author": "צל\"ש",
+      "rawCells": [
+        "שניצל בקלה ",
+        "פירה או פתיתים",
+        "",
+        "לטגן כמו שניצל עוף",
+        "",
+        "צל\"ש"
+      ],
+      "originalDetails": "לטגן כמו שניצל עוף",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 40,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A40"
+      },
+      "title": "מושט מהיר",
+      "author": "UU",
+      "rawCells": [
+        "מושט מהיר",
+        "קוסקוס או פירה",
+        "ברוקולי או מה שאוהבים",
+        "המושט אפילו לא צריך להיות מופשר, אפשר רק להוריד ממנו את הקרח ע\"י מים בברז\nמרפדים תבנית בבצל ועגבניות\nשמים תבלינים שאוהבים על המושט, עם קצת שמן\nאפיה של כ-25 דקות",
+        "",
+        "UU"
+      ],
+      "originalDetails": "המושט אפילו לא צריך להיות מופשר, אפשר רק להוריד ממנו את הקרח ע\"י מים בברז\nמרפדים תבנית בבצל ועגבניות\nשמים תבלינים שאוהבים על המושט, עם קצת שמן\nאפיה של כ-25 דקות",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 47,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A47"
+      },
+      "title": "קציצות",
+      "author": "טיים",
+      "rawCells": [
+        "קציצות ",
+        "",
+        "",
+        "עוף או הודו טחון, ירקות טחונים מהמרק של שבת (אני מכינה בדר\"כ את הקציצות האלה ביום ראשון,)ביצים פירורי לחם, מתכון פגז טעים בטרוף בריא ומשביע",
+        "כן",
+        "טיים"
+      ],
+      "originalDetails": "עוף או הודו טחון, ירקות טחונים מהמרק של שבת (אני מכינה בדר\"כ את הקציצות האלה ביום ראשון,)ביצים פירורי לחם, מתכון פגז טעים בטרוף בריא ומשביע",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 48,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A48"
+      },
+      "title": "קבב (אנחנו קונים קפוא)",
+      "author": "מיוחי",
+      "rawCells": [
+        "קבב (אנחנו קונים קפוא)",
+        "פתיתם",
+        "",
+        "מטגנים בצל קוביות קטנות. מכניסים את הקבב (חתוך ל2) מטגנים על שמוכן. מוציאם. מכניסים את הפתיתים לבצל. מבשלים כרגיל . בסיום מכניסים את הקבבים בחזרה. מערבבים ואוכלים",
+        "",
+        "מיוחי"
+      ],
+      "originalDetails": "מטגנים בצל קוביות קטנות. מכניסים את הקבב (חתוך ל2) מטגנים על שמוכן. מוציאם. מכניסים את הפתיתים לבצל. מבשלים כרגיל . בסיום מכניסים את הקבבים בחזרה. מערבבים ואוכלים",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 49,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A49"
+      },
+      "title": "באגט שניצל",
+      "author": "",
+      "rawCells": [
+        "באגט שניצל ",
+        "",
+        "סלט\\ בצל סומאק",
+        "מכינים שניצלים וצ'יפיס וכל אחד מרכיב לעצמו כריך לטעמו מתאים לימים שרוצים משהו קצת מיוחד "
+      ],
+      "originalDetails": "מכינים שניצלים וצ'יפיס וכל אחד מרכיב לעצמו כריך לטעמו מתאים לימים שרוצים משהו קצת מיוחד",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 61,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A61"
+      },
+      "title": "קוביות חזה עוף+ירק כלשהו+פתיתים בסיר אחד",
+      "author": "עשרי",
+      "rawCells": [
+        "קוביות חזה עוף+ירק כלשהו+פתיתים בסיר אחד",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 62,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A62"
+      },
+      "title": "תבשיל עוף טחון עם ירקות ותפו\"א בסיר אחד",
+      "author": "עשרי",
+      "rawCells": [
+        "תבשיל עוף טחון עם ירקות ותפו\"א בסיר אחד",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 63,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A63"
+      },
+      "title": "רעיונות לסוגי שניצלים",
+      "author": "עשרי",
+      "rawCells": [
+        "רעיונות לסוגי שניצלים",
+        "",
+        "",
+        "1. שניצל קלאסי ((קמח) ביצה, חרדל, שום פפריקה, מ. עוף(כמון) מל\"פ אחרי שמשרים בתערובת הביצים, טובלים בפ. לחם עם שומשום (+אבקת שום+ א. מרק עוף)\n2. קריספי צ'יקן של שחר פודיק\n3. שניצל בטמפורה\n4. שניצל מצופה בשמן +תבלינים , קמח+ א\"א וביצה\n5.שניצל בתנור עם פצפוצי אורז \n6. שניצל בתנור מושרה בשמן ותבלינים ואז פירורים\n7. מצופה במיונז, רטבים ותבלינים ואז פירורים\n8. מצופה בביצה ובקמח מצה\n9.לצפות בקמח ותבלינים ולטגן    10.להשרות ב קטשופ, שמן גריל עוף וכו לצפות בשומשום ופירורים ולאפות",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "1. שניצל קלאסי ((קמח) ביצה, חרדל, שום פפריקה, מ. עוף(כמון) מל\"פ אחרי שמשרים בתערובת הביצים, טובלים בפ. לחם עם שומשום (+אבקת שום+ א. מרק עוף)\n2. קריספי צ'יקן של שחר פודיק\n3. שניצל בטמפורה\n4. שניצל מצופה בשמן +תבלינים , קמח+ א\"א וביצה\n5.שניצל בתנור עם פצפוצי אורז \n6. שניצל בתנור מושרה בשמן ותבלינים ואז פירורים\n7. מצופה במיונז, רטבים ותבלינים ואז פירורים\n8. מצופה בביצה ובקמח מצה\n9.לצפות בקמח ותבלינים ולטגן    10.להשרות ב קטשופ, שמן גריל עוף וכו לצפות בשומשום ופירורים ולאפות",
+      "status": "ideas_collection",
+      "reason": "רשימת רעיונות או וריאציות; מתאימה לעריכת אוסף ולא למתכון אחד",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 64,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A64"
+      },
+      "title": "רעיונות לתיבולי פרוסות חזה עוף \"לסטייק\" (שצולים במחבת/ מיניק/ תחתית התנור)",
+      "author": "עשרי",
+      "rawCells": [
+        "רעיונות לתיבולי פרוסות חזה עוף \"לסטייק\" (שצולים במחבת/ מיניק/ תחתית התנור)",
+        "",
+        "",
+        "1. שמן מל\"פ, מרק עוף, חרדל, שום, פפריקה, כורכום (צ'ילי)\n\n2. קטשופ , שום שמן ותבלינים    3. רוטב טריאקי, שום גבישי, אבקת מרק בצל, שמן                  4. כמון, כורכום, תבלין על האש, תבלין לסטייק, פפריקה שמן וכד'     5.פרוסות בצל דקות, המון חוויג', שמן , פפריקה וכו",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "1. שמן מל\"פ, מרק עוף, חרדל, שום, פפריקה, כורכום (צ'ילי)\n\n2. קטשופ , שום שמן ותבלינים    3. רוטב טריאקי, שום גבישי, אבקת מרק בצל, שמן                  4. כמון, כורכום, תבלין על האש, תבלין לסטייק, פפריקה שמן וכד'     5.פרוסות בצל דקות, המון חוויג', שמן , פפריקה וכו",
+      "status": "ideas_collection",
+      "reason": "רשימת רעיונות או וריאציות; מתאימה לעריכת אוסף ולא למתכון אחד",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 67,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A67"
+      },
+      "title": "קציצות מבושלות בסגנון אחר (עם פלפלים בעיסה ותפוא וקישוא ברוטב)",
+      "author": "עשרי",
+      "rawCells": [
+        "קציצות מבושלות בסגנון אחר (עם פלפלים בעיסה ותפוא וקישוא ברוטב)",
+        "",
+        "",
+        "לקחת את המתכון מלמעלה ולהוסיף פלפלים קצוצים פיצי בסלייסר חוט להכניס את הקציצות לתבשיל תפוחי אדמה שמתובל בחוויג'/ קארי אבל של חברה טובה שלא יהיה ניחוח קינמוני, מתקבל תבשיל קציצות מהמם בניחוח אחר",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "לקחת את המתכון מלמעלה ולהוסיף פלפלים קצוצים פיצי בסלייסר חוט להכניס את הקציצות לתבשיל תפוחי אדמה שמתובל בחוויג'/ קארי אבל של חברה טובה שלא יהיה ניחוח קינמוני, מתקבל תבשיל קציצות מהמם בניחוח אחר",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 69,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A69"
+      },
+      "title": "\"חריימה\" מטונה שימורים",
+      "author": "עשרי",
+      "rawCells": [
+        "\"חריימה\" מטונה שימורים",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 70,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A70"
+      },
+      "title": "טשולנט פרווה",
+      "author": "עשרי",
+      "rawCells": [
+        "טשולנט פרווה",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 71,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A71"
+      },
+      "title": "פסטה \"מוקרמת\" בסיר אחד",
+      "author": "עשרי",
+      "rawCells": [
+        "פסטה \"מוקרמת\" בסיר אחד",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 72,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A72"
+      },
+      "title": "פלפל ממולא קינואה",
+      "author": "עשרי",
+      "rawCells": [
+        "פלפל ממולא קינואה",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 73,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A73"
+      },
+      "title": "תבשיל עוף טחון עם ירקות ופתיתים בסיר אחד",
+      "author": "עשרי",
+      "rawCells": [
+        "תבשיל עוף טחון עם ירקות ופתיתים בסיר אחד",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 74,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A74"
+      },
+      "title": "קציצות טונה קצת אחרת",
+      "author": "עשרי",
+      "rawCells": [
+        "קציצות טונה קצת אחרת",
+        "",
+        "",
+        "בצל \nשום\nפלפל אדום\nעגבניה\n(לגרד/ לקצוץ חלק בסלייסר חוט)\nרסק/ קטשופ\nאריסה\nכמון\n(מרק עוף)\nמל\"פ\n2 טונה\n2 ביצים\nחצי כוס פירורים לבנים",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "בצל \nשום\nפלפל אדום\nעגבניה\n(לגרד/ לקצוץ חלק בסלייסר חוט)\nרסק/ קטשופ\nאריסה\nכמון\n(מרק עוף)\nמל\"פ\n2 טונה\n2 ביצים\nחצי כוס פירורים לבנים",
+      "status": "possible_duplicate",
+      "reason": "קיים מתכון דומה; נדרשת השוואה ידנית בין רכיבים ואופן הכנה",
+      "possiblySameAs": [
+        {
+          "id": 222,
+          "title": "קציצות טונה ותפוחי אדמה"
+        },
+        {
+          "id": 223,
+          "title": "קציצות טונה, עגבנייה ופלפל"
+        }
+      ],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 75,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A75"
+      },
+      "title": "מושט ותפוא בתבנית אחת מצופים בפרורי לחם",
+      "author": "עשרי",
+      "rawCells": [
+        "מושט ותפוא בתבנית אחת מצופים בפרורי לחם",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 76,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A76"
+      },
+      "title": "גולש נקניקיות ותפוחי אדמה",
+      "author": "עשרי",
+      "rawCells": [
+        "גולש נקניקיות ותפוחי אדמה",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 77,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A77"
+      },
+      "title": "נקניקיות ופסטה אדומה בסיר אחד",
+      "author": "עשרי",
+      "rawCells": [
+        "נקניקיות ופסטה אדומה בסיר אחד",
+        "",
+        "",
+        "",
+        "",
+        "עשרי"
+      ],
+      "originalDetails": "",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 81,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A81"
+      },
+      "title": "מיטבולס (קציצות בשר)",
+      "author": "ארבע",
+      "rawCells": [
+        "מיטבולס (קציצות בשר)",
+        "אורז או פסטה",
+        "מרק",
+        "מכינים קציצות מבשר טחון ומבשלים ברוטב עגבניות עשיר. מגישים על ספגטי. כדי לקבל ירקות לארוחה מצוותים מרק כלשהו כמנה נפרדת.",
+        "לא",
+        "ארבע"
+      ],
+      "originalDetails": "מכינים קציצות מבשר טחון ומבשלים ברוטב עגבניות עשיר. מגישים על ספגטי. כדי לקבל ירקות לארוחה מצוותים מרק כלשהו כמנה נפרדת.",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 88,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A88"
+      },
+      "title": "חזה עוף",
+      "author": "אליש",
+      "rawCells": [
+        "חזה עוף",
+        "",
+        "ירקות מגורדים",
+        "מכינים מרק מירקות מגורדים כמו שאוהבים, ל-10 דקות האחרונות של הבישול מוסיפים חתיכות חזה עוף. טעים מאד מאד!",
+        "כן",
+        "אליש"
+      ],
+      "originalDetails": "מכינים מרק מירקות מגורדים כמו שאוהבים, ל-10 דקות האחרונות של הבישול מוסיפים חתיכות חזה עוף. טעים מאד מאד!",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 89,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A89"
+      },
+      "title": "חזה עוף בטמפורה",
+      "author": "חיה ב",
+      "rawCells": [
+        "חזה עוף בטמפורה ",
+        "הכי טוב עם אורז ",
+        "",
+        "מתכון לדוג' מהרשת: https://imaot.co.il/Book/Page/109497 יש הרבה דומים ",
+        "לא",
+        "חיה ב"
+      ],
+      "originalDetails": "מתכון לדוג' מהרשת: https://imaot.co.il/Book/Page/109497 יש הרבה דומים",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [
+        {
+          "id": 581,
+          "title": "חזה עוף בטמפורה לפסח"
+        }
+      ],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 94,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A94"
+      },
+      "title": "שניצלים",
+      "author": "אמאפ",
+      "rawCells": [
+        "שניצלים",
+        "אורז במיקרוגל",
+        "קישואים בקליפתם פרוסות דקות צלויים במיני קיטשן עם ספריי שמן ומלח",
+        "קערה (אני משתמשת בפלסטיק) 2 כוסות אורז מערבבים טוב טוב עם שמן מלח וא. מרק עוף, (אפשר להוסיף כאן גזר מגורד/פטריות שימורים למי שאוהב)מוסיפים 5 כוסות מים בלי לערבב!. מכניסים את הקערה למיקרו ל 13 דק, מוציאים מערבבים ומכניסים לעוד 13 דק. מוציאים מאווררים את האורז עם מזלג ומכסים בנייר כסף לכמה דק'.",
+        "",
+        "אמאפ"
+      ],
+      "originalDetails": "קערה (אני משתמשת בפלסטיק) 2 כוסות אורז מערבבים טוב טוב עם שמן מלח וא. מרק עוף, (אפשר להוסיף כאן גזר מגורד/פטריות שימורים למי שאוהב)מוסיפים 5 כוסות מים בלי לערבב!. מכניסים את הקערה למיקרו ל 13 דק, מוציאים מערבבים ומכניסים לעוד 13 דק. מוציאים מאווררים את האורז עם מזלג ומכסים בנייר כסף לכמה דק'.",
+      "status": "editorial_review",
+      "reason": "קיים תוכן מספיק להכנת טיוטה, נדרשות עריכה, בדיקת פרטים, אישור ותמונה ייעודית",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 95,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A95"
+      },
+      "title": "חזה עוף ממולא / דמוי ממולא",
+      "author": "נעמיקס",
+      "rawCells": [
+        "חזה עוף ממולא / דמוי ממולא",
+        "",
+        "אפשר למלא בירקות מאודים: בצל, גמבה, גזר מגורד, פטריות",
+        "לצפות בביצה ופירורית כמו לשניצל - אם רוצים עם ירקות אז למרוח שכבה דקה מהירקות המאודים ולגלגל, (זה טעים מאד גם בלי הירקות) לסדר בתבנית עם נייר אפיה, לשפוך שמן מלמעלה, לאפות 10 דקות ב180 לא מכוסה, למרוח מעל את הרוטב: \n3 כפות קטשופ,\n3 כפות סוכר חום,\n1 כף א. מרק בצל,\nפלפל שחור,\n3 שיני שום,\nרבע כוס שמן,\nרבע כוס מים,\nכף דבש,\nלאפות מכוסה עד שמוכן (180 מעלות)",
+        "",
+        "נעמיקס"
+      ],
+      "originalDetails": "לצפות בביצה ופירורית כמו לשניצל - אם רוצים עם ירקות אז למרוח שכבה דקה מהירקות המאודים ולגלגל, (זה טעים מאד גם בלי הירקות) לסדר בתבנית עם נייר אפיה, לשפוך שמן מלמעלה, לאפות 10 דקות ב180 לא מכוסה, למרוח מעל את הרוטב: \n3 כפות קטשופ,\n3 כפות סוכר חום,\n1 כף א. מרק בצל,\nפלפל שחור,\n3 שיני שום,\nרבע כוס שמן,\nרבע כוס מים,\nכף דבש,\nלאפות מכוסה עד שמוכן (180 מעלות)",
+      "status": "possible_duplicate",
+      "reason": "קיים מתכון דומה; נדרשת השוואה ידנית בין רכיבים ואופן הכנה",
+      "possiblySameAs": [
+        {
+          "id": 299,
+          "title": "חזה עוף ממולא ירקות ברוטב מתקתק"
+        },
+        {
+          "id": 300,
+          "title": "חזה עוף ממולא מזויף בציפוי פירורים וריבת דובדבנים"
+        }
+      ],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 100,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A100"
+      },
+      "title": "סטייקונים",
+      "author": "פרפה",
+      "rawCells": [
+        "סטייקונים",
+        "אורז לבן",
+        "מרק כתום",
+        "על בסיס משרה השניצלונים של תהילה לדוד השריתי בקטשופ, קצת חרדל, רוטב צילי מתוק פלוס ביצה, אחרי השריה של לילה (פלוס לא מגלה כמה) טבלתי כל נתחון בקמח וסידרתי צפוף במיני קיצ'ן על נייר אפיה משומן קלות, על החום הכי גבוה עד השחמה. התקבל בתשואות",
+        "",
+        "פרפה"
+      ],
+      "originalDetails": "על בסיס משרה השניצלונים של תהילה לדוד השריתי בקטשופ, קצת חרדל, רוטב צילי מתוק פלוס ביצה, אחרי השריה של לילה (פלוס לא מגלה כמה) טבלתי כל נתחון בקמח וסידרתי צפוף במיני קיצ'ן על נייר אפיה משומן קלות, על החום הכי גבוה עד השחמה. התקבל בתשואות",
+      "status": "needs_full_recipe",
+      "reason": "חסרים כמויות ו/או הוראות ברמת פירוט מספקת",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 107,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A107"
+      },
+      "title": "שניצל תירס",
+      "author": "חלזונות",
+      "rawCells": [
+        "",
+        "שניצל תירס",
+        "",
+        "מערבבים בקערה תירס, ביצה, קמח, תבלינים, מטגנים. טעים וקל",
+        "",
+        "חלזונות"
+      ],
+      "originalDetails": "מערבבים בקערה תירס, ביצה, קמח, תבלינים, מטגנים. טעים וקל",
+      "status": "needs_full_recipe",
+      "reason": "אין הוראות או נתוני הכנה מספיקים",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 114,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A114"
+      },
+      "title": "עוף מתוק",
+      "author": "אליש",
+      "rawCells": [
+        "עוף מתוק",
+        "אורז",
+        "",
+        "הרבה בצל+הרבה שום+רוטב טריאקי+דבש+סוכר+מים, לערבב היטב, לשפוך על העוף ולאפות בתנור כשעתיים, יוצא טעים ללקק את האצבעות. להגיש על אורז",
+        "",
+        "אליש"
+      ],
+      "originalDetails": "הרבה בצל+הרבה שום+רוטב טריאקי+דבש+סוכר+מים, לערבב היטב, לשפוך על העוף ולאפות בתנור כשעתיים, יוצא טעים ללקק את האצבעות. להגיש על אורז",
+      "status": "possible_duplicate",
+      "reason": "קיים מתכון דומה; נדרשת השוואה ידנית בין רכיבים ואופן הכנה",
+      "possiblySameAs": [
+        {
+          "id": 152,
+          "title": "עוף בתנור ברוטב טריאקי"
+        },
+        {
+          "id": 344,
+          "title": "חזה עוף מתוק באפייה עם שומשום"
+        }
+      ],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "גיליון1",
+        "gid": 0,
+        "row": 116,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=0&range=A116"
+      },
+      "title": "מרק אפונה",
+      "author": "סופר",
+      "rawCells": [
+        "",
+        "",
+        "מרק אפונה ",
+        "https://kerenagam.co.il/%D7%9E%D7%A8%D7%A7-%D7%90%D7%A4%D7%95%D7%A0%D7%94-%D7%91%D7%99%D7%AA%D7%99/",
+        "",
+        "סופר"
+      ],
+      "originalDetails": "https://kerenagam.co.il/%D7%9E%D7%A8%D7%A7-%D7%90%D7%A4%D7%95%D7%A0%D7%94-%D7%91%D7%99%D7%AA%D7%99/",
+      "status": "external_link_only",
+      "reason": "קישור למתכון חיצוני בלבד; אין להעתיק ללא הרשאה",
+      "possiblySameAs": [
+        {
+          "id": 353,
+          "title": "מרק אפונה יבשה וירקות"
+        }
+      ],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "מתוקים",
+        "gid": 2095150202,
+        "row": 3,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=2095150202&range=A3"
+      },
+      "title": "עוגת שוקוציפס לעניים ועצלנים בכמות לתבנית ענקית",
+      "author": "ליאונרדו",
+      "rawCells": [
+        "עוגת שוקוציפס לעניים ועצלנים בכמות לתבנית ענקית",
+        "",
+        "שכבה ראשונה\n3 3/4 כוסות קמח\n3/4 כוס סוכר\n1 כוס שמן\n2 ביצה\n2 סוכר וניל\n\nלערבב, לשטח בתבנית חד\"פ חצי מכמות הבצק\n\nשכבה שנייה\n1.5 כוס סוכר\n3/4 כוס שמן\n3/4 כוס קמח\n3 ביצים\n2/3 כפית מלח\n1.5 כוס שוקוציפס\n כף תמצית וניל\n4.5 כפות קפה מגורען\n\nלערבב לשפוך מעל הבצק לפורר מעל את הבצק הנותן לפרורים\n\nלאפות 25 דק' חום בנוני\n\nלעשות גלייז שוקולד",
+        "",
+        "",
+        "",
+        "",
+        "ליאונרדו"
+      ],
+      "originalDetails": "שכבה ראשונה\n3 3/4 כוסות קמח\n3/4 כוס סוכר\n1 כוס שמן\n2 ביצה\n2 סוכר וניל\n\nלערבב, לשטח בתבנית חד\"פ חצי מכמות הבצק\n\nשכבה שנייה\n1.5 כוס סוכר\n3/4 כוס שמן\n3/4 כוס קמח\n3 ביצים\n2/3 כפית מלח\n1.5 כוס שוקוציפס\n כף תמצית וניל\n4.5 כפות קפה מגורען\n\nלערבב לשפוך מעל הבצק לפורר מעל את הבצק הנותן לפרורים\n\nלאפות 25 דק' חום בנוני\n\nלעשות גלייז שוקולד",
+      "status": "editorial_review",
+      "reason": "קיים תוכן מספיק להכנת טיוטה, נדרשות עריכה, בדיקת פרטים, אישור ותמונה ייעודית",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 2,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A2"
+      },
+      "title": "חותכים טורטיות למשולשים כשקע בתבנית, ממלאים",
+      "author": "טובית פרוג",
+      "rawCells": [
+        "טורטיות, חזה עוף, בצל מטוגן",
+        "חותכים טורטיות למשולשים כשקע בתבנית, ממלאים",
+        "עיקרית",
+        "ארוחות חול המועד",
+        "טובית פרוג"
+      ],
+      "originalDetails": "חותכים טורטיות למשולשים כשקע בתבנית, ממלאים",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 3,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A3"
+      },
+      "title": "תלולית פירה ת\"א ובטטה בצורת גלגל, באמצע כבד",
+      "author": "טובית פרוג",
+      "rawCells": [
+        "פירה תפוח אדמה, פירה בטטה, כבד, בצל",
+        "תלולית פירה ת\"א ובטטה בצורת גלגל, באמצע כבד",
+        "עיקרית",
+        "ארוחות חול המועד",
+        "טובית פרוג"
+      ],
+      "originalDetails": "תלולית פירה ת\"א ובטטה בצורת גלגל, באמצע כבד",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 4,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A4"
+      },
+      "title": "טאקו עם סלמון ומטבלים ליד סלט",
+      "author": "חיה ב.",
+      "rawCells": [
+        "טאקו מיני, סלמון, ירוקים, חסה",
+        "טאקו עם סלמון ומטבלים ליד סלט",
+        "פתיחה",
+        "ארוחות חול המועד",
+        "חיה ב."
+      ],
+      "originalDetails": "טאקו עם סלמון ומטבלים ליד סלט",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 5,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A5"
+      },
+      "title": "קוביות בשר מבושל וחזה ממולא מוגש עם אורז",
+      "author": "חיה ב.",
+      "rawCells": [
+        "בשר, חזה עוף, אורז",
+        "קוביות בשר מבושל וחזה ממולא מוגש עם אורז",
+        "עיקרית",
+        "ארוחות חול המועד",
+        "חיה ב."
+      ],
+      "originalDetails": "קוביות בשר מבושל וחזה ממולא מוגש עם אורז",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 6,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A6"
+      },
+      "title": "גלידה לצד שייק תותים",
+      "author": "חיה ב.",
+      "rawCells": [
+        "גלידת וניל עוגיות, תותים",
+        "גלידה לצד שייק תותים",
+        "קינוח",
+        "ארוחות חול המועד",
+        "חיה ב."
+      ],
+      "originalDetails": "גלידה לצד שייק תותים",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 7,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A7"
+      },
+      "title": "מנה חמה לצד הלחוח",
+      "author": "חיה ב.",
+      "rawCells": [
+        "קציצות דגים, רוטב, לחוחים",
+        "מנה חמה לצד הלחוח",
+        "עיקרית",
+        "ארוחות חול המועד",
+        "חיה ב."
+      ],
+      "originalDetails": "מנה חמה לצד הלחוח",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 8,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A8"
+      },
+      "title": "ארוחה משפחתית מגוונת",
+      "author": "גולי",
+      "rawCells": [
+        "לחמניות, שושני סלמון, פרגיות, שניצל, צ'יפס",
+        "ארוחה משפחתית מגוונת",
+        "עיקרית",
+        "ארוחות חול המועד",
+        "גולי"
+      ],
+      "originalDetails": "ארוחה משפחתית מגוונת",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 9,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A9"
+      },
+      "title": "טיגון בצ'יפסר",
+      "author": "YELLOW",
+      "rawCells": [
+        "שניצל, צ'יפס",
+        "טיגון בצ'יפסר",
+        "עיקרית",
+        "ארוחות חול המועד",
+        "YELLOW"
+      ],
+      "originalDetails": "טיגון בצ'יפסר",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 10,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A10"
+      },
+      "title": "כבד על חלה מטוגנת",
+      "author": "צלש צהוב",
+      "rawCells": [
+        "רוטב כבד, חלה",
+        "כבד על חלה מטוגנת",
+        "מנה ראשונה",
+        "ארוחות חול המועד",
+        "צלש צהוב"
+      ],
+      "originalDetails": "כבד על חלה מטוגנת",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 11,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A11"
+      },
+      "title": "שקדים קלויים לתוספת",
+      "author": "צלש צהוב",
+      "rawCells": [
+        "שניצלים, אורז, שקדים קלויים",
+        "שקדים קלויים לתוספת",
+        "עיקרית",
+        "ארוחות חול המועד",
+        "צלש צהוב"
+      ],
+      "originalDetails": "שקדים קלויים לתוספת",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    },
+    {
+      "source": {
+        "site": "https://chaya-cell-png.github.io/recipes/",
+        "spreadsheetId": "1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk",
+        "tab": "חגים ואירועים",
+        "gid": 448673552,
+        "row": 12,
+        "url": "https://docs.google.com/spreadsheets/d/1YUXcqwtndsEqrfu7kVLLtfn5cCLA6pJnDOUgoezcWlk/edit#gid=448673552&range=A12"
+      },
+      "title": "גליליות ממולאות בריץ'",
+      "author": "צלש צהוב",
+      "rawCells": [
+        "גליליות, ריץ'",
+        "גליליות ממולאות בריץ'",
+        "קינוח",
+        "ארוחות חול המועד",
+        "צלש צהוב"
+      ],
+      "originalDetails": "גליליות ממולאות בריץ'",
+      "status": "inspiration_only",
+      "reason": "רעיון להגשה/אירוח בלבד; אין נוסח מתכון מלא",
+      "possiblySameAs": [],
+      "imageStatus": "missing_dedicated_image",
+      "approvalStatus": "pending",
+      "publishReady": false
+    }
+  ]
+}
