@@ -3605,6 +3605,16 @@
       "path": "media/photos/holiday-27--20da407765750299.webp",
       "sha256": "20da407765750299c3a28e1606777237d2a300192067e68bf0876711a16055fa",
       "bytes": 208992
+    },
+    "approved-recipe-625": {
+      "path": "media/photos/pudding-sponge-cake-625--511d06750dc83449.webp",
+      "sha256": "511d06750dc83449df9fa8434c5f8decfc7b5b2bc4fc4faf38fc05246b2e758e",
+      "bytes": 161174
+    },
+    "approved-recipe-626": {
+      "path": "media/photos/vanilla-cocoa-surprise-cake-626--1047ec98fa72589f.webp",
+      "sha256": "1047ec98fa72589fead63e2bbc3a6f4d07cb65e3c7a019941fb8ad285cad1945",
+      "bytes": 159912
     }
   },
   "scans": {}
