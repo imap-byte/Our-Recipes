@@ -3615,6 +3615,11 @@
       "path": "media/photos/vanilla-cocoa-surprise-cake-626--1047ec98fa72589f.webp",
       "sha256": "1047ec98fa72589fead63e2bbc3a6f4d07cb65e3c7a019941fb8ad285cad1945",
       "bytes": 159912
+    },
+    "recipe-627-coffee-torte": {
+      "path": "media/photos/recipe-627-coffee-torte--65aa2f57ee8b95b1.webp",
+      "sha256": "65aa2f57ee8b95b13743fe71333e699312cbdd08e25bfcc5d565dd996fcfa192",
+      "bytes": 272774
     }
   },
   "scans": {}
