@@ -3620,6 +3620,11 @@
       "path": "media/photos/recipe-627-coffee-torte--65aa2f57ee8b95b1.webp",
       "sha256": "65aa2f57ee8b95b13743fe71333e699312cbdd08e25bfcc5d565dd996fcfa192",
       "bytes": 272774
+    },
+    "recipe-628-taami": {
+      "path": "media/photos/recipe-628-taami--33eb0018464ede00.webp",
+      "sha256": "33eb0018464ede00e723139d1ea64ef8426cbdd4c3bbdcc7f6102f87c0153631",
+      "bytes": 286740
     }
   },
   "scans": {}
